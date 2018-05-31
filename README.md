@@ -39,3 +39,5 @@ Some examples:
 Disseminating answers to the general public goes against the spirit of the game.
 
 The password for the first branch is turtleturtle
+
+The password for the second branch is secondbranchsecondbranch
